@@ -1,0 +1,17 @@
+/* 
+  NotesForCoreDataDemo.strings
+  CoreDataDemo
+
+  Created by Ahmed T Khalil on 1/23/17.
+  Copyright © 2017 kalikans. All rights reserved.
+*/
+
+/*
+'CoreDataDemo.xcdatamodeld' is a data model, which is a database structure (you can also think of it as an Excel Spreadsheet of sorts)
+ 
+ 'Entity' is like page on a spreadsheet or a table in a database
+ 'Attributes', then, are like the 'columns' of the spreadsheet
+ 
+ 'AppDelegate.swift' is a file that has a set of methods that control the basic functions of an app
+ 
+ */
